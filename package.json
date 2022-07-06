@@ -1,0 +1,25 @@
+{
+  "name": "genesis-dat",
+  "version": "1.0.0",
+  "description": "Admin tools for genesis project",
+  "main": "main.go",
+  "scripts": {
+    "start": "air",
+    "test": "go test ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Genesis/GenesisDAT.git"
+  },
+  "keywords": [
+    "go",
+    "gin",
+    "mongodb"
+  ],
+  "author": "Mateusz Słotwiński",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Genesis/GenesisDAT/issues"
+  },
+  "homepage": "https://github.com/Genesis/GenesisDAT#readme"
+}
